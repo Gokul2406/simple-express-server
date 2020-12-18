@@ -1,0 +1,21 @@
+{
+  "name": "express-starter-boiler-template",
+  "version": "1.0.0",
+  "description": "This is a simple express-boilerplate to get you started with express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Gokul P B",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
